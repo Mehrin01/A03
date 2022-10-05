@@ -1,7 +1,22 @@
 # A03
 
 ## Tutorial
-
+1. Download the Git service https://git-scm.com/downloads (I download the 2.38.0 version) 
+2. Download Webstorm JetBrains from https://www.jetbrains.com/community/education/#students
+3. Create a Github account https://github.com/join
+4. Open Webstorm
+5. To make sure you installed the most updated version you can go to Help and check for any available updates. 
+6. On the upper left corner you can nevigate to settings and choose version control, then Git.
+7. Select the set path in the location currently and type C:\Program Files\Git\bin\git.exe in the box. (I installed Git correctly, as it showed the message “Git Executed Successfully.”) 
+8. Create new project on the Web from home page
+9. On the new project choose the expected location and name the project (I named my IS117 Test Project). Also choose HTML 5 from the new file.
+10. After editing and making some changes click VCS, Import into Version Control, and then create Git respository, say OK.
+11. Commit the changes to GIT by selecting VCS, then GIT, and Commit File
+12. After clicking Commit it will ask you to enter you email if it is your first time comitting. (It asked me to enter my email address)
+13. Add project to Github by clicking VCS, then import into Version Control, and share project on Github. (It says “Successfully shared project on GitHub.” for me)
+14. Add a new file to the Github repository and then name it README.MD 
+15. You can edit in some texts and commit the new file, which is in the list
+16. After making a change Webstorm, commit to git, click VCS, GIT, then Commit and finally push the change to Github.
 
 
 
